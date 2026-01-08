@@ -1,6 +1,4 @@
 <p align="center"><img src="img/log.jpg"></p>
-
-# Password Checker 
  
 This program is designed to enhance password security awareness by evaluating the integrity of user-provided passwords.
 
