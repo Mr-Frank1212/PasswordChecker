@@ -1,5 +1,7 @@
-# Password Checker 
+<p style="text-align: center"><img src="img/log.jpg"></p>
 
+# Password Checker 
+ 
 This program is designed to enhance password security awareness by evaluating the integrity of user-provided passwords.
 
 <a href="https://github.com/Mr-Frank1212/PasswordChecker">
