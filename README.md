@@ -1,4 +1,4 @@
-<p style="text-align: center"><img src="img/log.jpg"></p>
+<p align="center"><img src="img/log.jpg"></p>
 
 # Password Checker 
  
